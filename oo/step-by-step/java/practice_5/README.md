@@ -15,7 +15,7 @@ introduce方法返回一个字符串形如：
 My name is Tom. I am 21 years old. I am a Worker. I have a job.
 
 
-所有Person的子类的这段文字类的这段文字
+所有Person的子类的这段文字
 
 My name is Tom. I am 21 years old.
 
